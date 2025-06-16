@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **WorkLoop**
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **SpringBoot,AWS**
 
 - 📫 How to reach me **dixitaditya41@gmail.com**
 
