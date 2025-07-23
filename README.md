@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Dixit</h1>
 <h3 align="center">A passionate software developer from India ,</h3>
 
-- 🔭 I’m currently working on **WorkLoop**
+- 🔭 I’m currently working on **Interview AI**
 
 - 🌱 I’m currently learning **SpringBoot,AWS,System Design**
 
