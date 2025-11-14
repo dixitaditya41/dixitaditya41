@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Interview AI**
 
-- 🌱 I’m currently learning **SpringBoot,AWS,System Design**
+- 🌱 I’m currently learning **SpringBoot,LLMs,System Design**
 
 - 📫 How to reach me **dixitaditya41@gmail.com**
 
